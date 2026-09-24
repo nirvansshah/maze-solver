@@ -1,4 +1,4 @@
-# Maze Solver
+# Maze Solver code which was used in one of the competition
 
 # Arduino Nano R4 Maze Robot
 
